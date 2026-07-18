@@ -2,7 +2,7 @@ README.md
 # CreditWise: Comprehensive Credit Assessment Solution with Responsible AI
 
 ## Project Overview
-
+####My one semester school project
 CreditWise is an academic project demonstrating a responsible and transparent credit scoring system built with Python and machine learning. The application combines predictive modeling with explainability, fairness auditing, and regulatory compliance features to enable informed lending decisions while maintaining ethical standards.
 
 ## Table of Contents
